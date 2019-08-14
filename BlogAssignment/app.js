@@ -32,8 +32,9 @@ app.get('/add-blog',(req,res) => {
 
 app.get('/',(req,res) => {
 
-    db.any('SELECT blogid,title,blogbody FROM trips;')
-    .then(blogs => {
+    db.any('SELECT blogid,title,blogbody FROM blogs;')
+    .then((blogs) => {
+        console.log(blogs)
         res.render('index',{blogs: blogs})
     }).catch(error => {
         res.render('index',{message: 'Unable to get trips!'})

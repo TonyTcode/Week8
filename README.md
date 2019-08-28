@@ -8,10 +8,10 @@
 
 __This web application uses [ElephantSQL](https://www.elephantsql.com/)
 
-This web application was built with Javascript, Mustache-Express, Node, & CSS.__
+__This web application was built with Javascript, Mustache-Express, Node, & CSS.
 
 
-##The Goal
+## The Goal
 
 Design and make a useless app in 2 days that serves no purpose, maybe other than get a cheap laugh.
 
@@ -29,6 +29,6 @@ __Mobile__
 (homeMobile.PNG)
 (displayMobile.PNG)
 
-##Creator
+## Creator
 
 Antonio Tobar - [LinkedIn](https://www.linkedin.com/in/antonio-tobar-dev/)-[GitHub](https://github.com/TonyTcode) - [Email](antonio.tobar.dev@gmail.com)

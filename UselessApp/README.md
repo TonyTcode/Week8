@@ -19,12 +19,12 @@ Design and make a useless app in 2 days that serves no purpose, maybe other than
 
 Single button design that displays Chuck Norris jokes from a datebase at random. Mobile and desktop responsive.
 
-__Desk top view__
+## Desk top view
 
 ![Home](screenShots/homeDesktop.png)
 ![display](screenShots/displayDesktop.png)
 
-__Mobile__
+## Mobile
 
 ![mobile home](screenShots/homeMobile.PNG)
 ![mobile display](screenShots/displayMobile.PNG)
@@ -32,3 +32,4 @@ __Mobile__
 ## Creator
 
 Antonio Tobar - [LinkedIn](https://www.linkedin.com/in/antonio-tobar-dev/)-[GitHub](https://github.com/TonyTcode) - [Email](antonio.tobar.dev@gmail.com)
+

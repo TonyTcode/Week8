@@ -27,7 +27,7 @@ Single button design that displays Chuck Norris jokes from a datebase at random.
 ## Mobile
 
 ![mobile home](screenShots/homeMobile.PNG)
-![mobile display](screenShots/displayMobile.PNG)
+![mobile display](screenShots/displaymobile.PNG)
 
 ## Creator
 

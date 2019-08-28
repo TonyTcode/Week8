@@ -15,7 +15,7 @@ __This web application was built with Javascript, Mustache-Express, Node, & CSS.
 
 Design and make a useless app in 2 days that serves no purpose, maybe other than get a cheap laugh.
 
-##Features
+## Features
 
 Single button design that displays Chuck Norris jokes from a datebase at random. Mobile and desktop responsive.
 

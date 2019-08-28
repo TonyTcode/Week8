@@ -8,7 +8,7 @@
 
 __This web application uses [ElephantSQL](https://www.elephantsql.com/)
 
-This web application was built with Javascript, Mustache-Express, Node, & CSS.
+This web application was built with Javascript, Mustache-Express, Node, & CSS.__
 
 
 ##The Goal

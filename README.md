@@ -6,9 +6,9 @@
 
 ## Languages & Services
 
-__This web application uses [ElephantSQL](https://www.elephantsql.com/)
+__This web application uses [ElephantSQL](https://www.elephantsql.com/)__
 
-__This web application was built with Javascript, Mustache-Express, Node, & CSS.
+__This web application was built with Javascript, Mustache-Express, Node, & CSS.__
 
 
 ## The Goal

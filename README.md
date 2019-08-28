@@ -21,7 +21,7 @@ Single button design that displays Chuck Norris jokes from a datebase at random.
 
 __Desk top view__
 
-(homeDesktop.png)
+(UselessApp/screen shots/homeDesktop.png)
 (displayDesktop.png)
 
 __Mobile__

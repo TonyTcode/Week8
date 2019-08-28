@@ -21,7 +21,7 @@ Single button design that displays Chuck Norris jokes from a datebase at random.
 
 __Desk top view__
 
-(https://imgur.com/a/cqerGBt)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/cqerGBt"><a href="//imgur.com/a/cqerGBt">home desktop view</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 (displayDesktop.png)
 
 __Mobile__

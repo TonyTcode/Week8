@@ -21,14 +21,13 @@ Single button design that displays Chuck Norris jokes from a datebase at random.
 
 __Desk top view__
 
-(homeDesktop.png)
-(displayDesktop.png)
+![Home](homeDesktop.png)
+![display](displayDesktop.png)
 
 __Mobile__
 
-(homeMobile.PNG)
-(displayMobile.PNG)
-
+![mobile home](homeMobile.PNG)
+![mobile display](displayMobile.PNG)
 ## Creator
 
 Antonio Tobar - [LinkedIn](https://www.linkedin.com/in/antonio-tobar-dev/)-[GitHub](https://github.com/TonyTcode) - [Email](antonio.tobar.dev@gmail.com)
